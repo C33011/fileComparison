@@ -15,6 +15,7 @@ The purpose of this process is to demonstrate the differences in efficiency that
   - **Step 2**: Reads both files into dynamically allocated arrays, compares them, and writes differing bytes from the second file.
 - Dynamically allocates memory for file contents and differences to optimize RAM usage.
 - Measures and reports the time taken for each comparison step.
+- Project folder contains example input and output text files for comparison.
 
 ## How to Use
 
