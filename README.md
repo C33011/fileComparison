@@ -28,7 +28,7 @@ The program only accepts two text file pathways as command-line arguments.
 
 2. **Comparing two files and printing the differences to console**:
    ```bash
-   ./fileComparison.out input1.txt input2.txt; cd differencesFoundInText1.txt differencesFoundInFile2.txt;
+   ./fileComparison.out input1.txt input2.txt; cat differencesFoundInText1.txt differencesFoundInFile2.txt;
    
 ## Compilation
 
